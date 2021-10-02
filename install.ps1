@@ -29,6 +29,7 @@ choco feature enable -n=allowGlobalConfirmation;
 ,"robo3t"
 ,"azure-data-studio"
 ,"mobaxterm"
+,"sqlitestudio"
 ,"docker-desktop"
 ,"nodejs-lts"
 ,"nvm"
